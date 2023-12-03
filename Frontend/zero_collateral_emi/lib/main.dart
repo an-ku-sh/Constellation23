@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
     return const MaterialApp(
       home: Scaffold(
         body: Center(
-          child: Text("Body"),
+          child: Text("Zero Collateral EMI for NFTs"),
         ),
       ),
     );
